@@ -1,0 +1,21 @@
+#head-container {
+    background-color: rgb(234, 232, 232);
+    padding-bottom: 4%;
+}
+
+#logo {
+    width: 120px;
+}
+
+#custom-alert {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#row-0 {
+    margin-top: 2%;
+}
+
+#table-custom {
+    margin-top: 2%;
+}
